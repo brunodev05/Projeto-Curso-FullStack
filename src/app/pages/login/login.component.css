@@ -1,0 +1,60 @@
+.fundo {
+  background-color: #ececfe;
+}
+
+.container {
+  margin-top: 5rem;
+  color: #ececfe;
+}
+
+.card {
+  background-color: #585ead!important;
+}
+
+.card-title {
+  color: #ececfe !important;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.form-label {
+  color: #ececfe;
+}
+
+.form-control {
+  color: #373c86;
+}
+
+.btn-primary {
+  background-color: #373c86 !important;
+  color: #ececfe !important;
+  border-color: #373c86 !important;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #1a1d3e !important;
+}
+
+.btn-primary:active {
+  background-color: #ececfe !important;
+}
+
+.btn-link {
+  color: rgb(18, 206, 219) !important;
+  text-decoration: underline;
+}
+
+.scale-down {
+  width: 30%;
+  height: auto;
+}
+
+.form-control:focus {
+  border-color: rgb(165, 71, 253) !important;
+  box-shadow: 0 0 0 0.2rem rgb(18, 206, 219) !important;
+}
+.text-center {
+  color: #ececfe !important;
+}
+
